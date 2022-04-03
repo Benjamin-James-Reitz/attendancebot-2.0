@@ -1,12 +1,60 @@
-You must attend at least 15 sessions in order to reach the critical threshold of the majority of practices (i.e. an attendance rate of more than 50%) and pass Spring Fitness.
-['ben teacher', 'b24reitz@saes.org', 4, 4, 50.0, 28, 15, 'A', 'A', 'P', 'P', 'A', 'A', 'P', 'P']
+Dear ben teacher,
 
-You must attend at least 17 sessions in order to reach the critical threshold of the majority of practices (i.e. an attendance rate of more than 50%) and pass Spring Fitness.
-['ben dj', 'civil24poodle@gmail.com', 2, 6, 25.0, 28, 17, 'A', 'P', 'A', 'A', 'A', 'A', 'P', 'A']
+    Greetings from Mr. Reitz' Python3 attendancebot. You still need to attend at least 15 practices of the remaining 28 in the school year in order to reach the critical threshold of the majority of practices (i.e. an attendance rate of more than 50%) and pass Spring Fitness. Your remaining practice dates are: 4-4, 4-5, 4-6, 4-7, 4-11, 4-12, 4-13, 4-14, 4-18, 4-19, 4-20, 4-21, 4-25, 4-26, 4-27, 4-28, 5-2, 5-3, 5-4, 5-5, 5-9, 5-10, 5-11, 5-12, 5-16, 5-17, 5-18, 5-19.
 
-You must attend at least 9 sessions in order to reach the critical threshold of the majority of practices (i.e. an attendance rate of more than 50%) and pass Spring Fitness.
-['ben', 'ben22reitz@gmail.com', 8, 0, 100.0, 24, 9, 'P', 'P', 'P', 'P', 'P', 'P', 'P', 'P']
+In addition there will be two optional make-up practices on 5/23 and 5/24. 
 
-You must attend at least 10 sessions in order to reach the critical threshold of the majority of practices (i.e. an attendance rate of more than 50%) and pass Spring Fitness.
-['justin', 'justin22reitz@gmail.com', 7, 1, 87.5, 24, 10, 'P', 'P', 'P', 'P', 'P', 'P', 'P', 'A']
+If you have any questions about this automated attendance notification, please reach out to my programmer, Mr Reitz, at breitz@saes.org 
+
+Sincerely, 
+Mr Reitz' Python3 Attendancebot 
+
+
+Dear ben dj,
+
+    Greetings from Mr. Reitz' Python3 attendancebot. You still need to attend at least 17 practices of the remaining 28 in the school year in order to reach the critical threshold of the majority of practices (i.e. an attendance rate of more than 50%) and pass Spring Fitness. Your remaining practice dates are: 4-4, 4-5, 4-6, 4-7, 4-11, 4-12, 4-13, 4-14, 4-18, 4-19, 4-20, 4-21, 4-25, 4-26, 4-27, 4-28, 5-2, 5-3, 5-4, 5-5, 5-9, 5-10, 5-11, 5-12, 5-16, 5-17, 5-18, 5-19.
+
+In addition there will be two optional make-up practices on 5/23 and 5/24. 
+
+If you have any questions about this automated attendance notification, please reach out to my programmer, Mr Reitz, at breitz@saes.org 
+
+Sincerely, 
+Mr Reitz' Python3 Attendancebot 
+
+
+Dear ben,
+
+   Greetings from Mr. Reitz' Python3 attendancebot. You still need to attend at least 7 practices of the remaining 20 in the school year in order to reach the critical threshold of the majority of practices (i.e. an attendance rate of more than 50%) and pass Spring Fitness. Your remaining practice dates are: 4-4, 4-5, 4-6, 4-7, 4-11, 4-12, 4-13, 4-14, 4-18, 4-19, 4-20, 4-21, 4-25, 4-26, 4-27, 4-28, 5-2, 5-3, 5-4, 5-5. 
+
+In addition there will be four optional/make-up practices on: 5-9, 5-10, 5-11, 5-12. 
+
+If you have any questions about this automated attendance notification, please reach out to my programmer, Mr Reitz, at breitz@saes.org 
+
+Sincerely, 
+Mr Reitz' Python3 Attendancebot 
+
+
+Dear justin,
+
+   Greetings from Mr. Reitz' Python3 attendancebot. You still need to attend at least 8 practices of the remaining 20 in the school year in order to reach the critical threshold of the majority of practices (i.e. an attendance rate of more than 50%) and pass Spring Fitness. Your remaining practice dates are: 4-4, 4-5, 4-6, 4-7, 4-11, 4-12, 4-13, 4-14, 4-18, 4-19, 4-20, 4-21, 4-25, 4-26, 4-27, 4-28, 5-2, 5-3, 5-4, 5-5. 
+
+In addition there will be four optional/make-up practices on: 5-9, 5-10, 5-11, 5-12. 
+
+If you have any questions about this automated attendance notification, please reach out to my programmer, Mr Reitz, at breitz@saes.org 
+
+Sincerely, 
+Mr Reitz' Python3 Attendancebot 
+
+
+Dear Jing,
+
+   Greetings from Mr. Reitz' Python3 attendancebot. You still need to attend at least 15 practices of the remaining 20 in the school year in order to reach the critical threshold of the majority of practices (i.e. an attendance rate of more than 50%) and pass Spring Fitness. Your remaining practice dates are: 4-4, 4-5, 4-6, 4-7, 4-11, 4-12, 4-13, 4-14, 4-18, 4-19, 4-20, 4-21, 4-25, 4-26, 4-27, 4-28, 5-2, 5-3, 5-4, 5-5. 
+
+In addition there will be four optional/make-up practices on: 5-9, 5-10, 5-11, 5-12. 
+
+If you have any questions about this automated attendance notification, please reach out to my programmer, Mr Reitz, at breitz@saes.org 
+
+Sincerely, 
+Mr Reitz' Python3 Attendancebot 
+
 
